@@ -6,15 +6,15 @@
     <description>Recent content in Long-term Dynamics on Ellen K. Bledsoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://bleds22e.github.io/tags/long-term-dynamics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>portalr</title>
+      <title>portalR</title>
       <link>https://bleds22e.github.io/project/portalr/</link>
-      <pubDate>Sun, 24 Nov 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://bleds22e.github.io/project/portalr/</guid>
       <description>R package for using Portal data</description>
