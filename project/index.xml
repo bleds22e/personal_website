@@ -13,6 +13,15 @@
     
     <item>
       <title>External Project</title>
+      <link>https://bleds22e.github.io/project/builds/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bleds22e.github.io/project/builds/</guid>
+      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
       <link>https://bleds22e.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
