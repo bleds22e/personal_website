@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G. M. Yenni on Ellen K. Bledsoe</title>
-    <link>https://bleds22e.github.io/authors/g.-m.-yenni/</link>
+    <link>/authors/g.-m.-yenni/</link>
     <description>Recent content in G. M. Yenni on Ellen K. Bledsoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Jan 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://bleds22e.github.io/authors/g.-m.-yenni/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/g.-m.-yenni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>portalr: an R package for summarizing and using the Portal Project Data</title>
-      <link>https://bleds22e.github.io/publication/joss_2019/</link>
+      <link>/publication/joss_2019/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/publication/joss_2019/</guid>
+      <guid>/publication/joss_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Portal Project: a long-term study of a Chihuahuan desert ecosystem</title>
-      <link>https://bleds22e.github.io/publication/portal_data_paper/</link>
+      <link>/publication/portal_data_paper/</link>
       <pubDate>Sun, 18 Nov 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/publication/portal_data_paper/</guid>
+      <guid>/publication/portal_data_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing an automated iterative near-term forecasting system for an ecological study</title>
+      <link>/publication/forescasting_2019/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/forescasting_2019/</guid>
       <description></description>
     </item>
     

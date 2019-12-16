@@ -2,102 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Ellen K. Bledsoe</title>
-    <link>https://bleds22e.github.io/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Ellen K. Bledsoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://bleds22e.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>admin</title>
-      <link>https://bleds22e.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. K. Morgan Ernest</title>
-      <link>https://bleds22e.github.io/authors/s.-k.-morgan-ernest/</link>
+      <link>/authors/s.-k.-morgan-ernest/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/s.-k.-morgan-ernest/</guid>
+      <guid>/authors/s.-k.-morgan-ernest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. M. Christensen</title>
-      <link>https://bleds22e.github.io/authors/e.-m.-christensen/</link>
+      <link>/authors/e.-m.-christensen/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/e.-m.-christensen/</guid>
+      <guid>/authors/e.-m.-christensen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. P. White</title>
-      <link>https://bleds22e.github.io/authors/e.-p.-white/</link>
+      <link>/authors/e.-p.-white/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/e.-p.-white/</guid>
+      <guid>/authors/e.-p.-white/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. M. Yenni</title>
-      <link>https://bleds22e.github.io/authors/g.-m.-yenni/</link>
+      <link>/authors/g.-m.-yenni/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/g.-m.-yenni/</guid>
+      <guid>/authors/g.-m.-yenni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Ye</title>
-      <link>https://bleds22e.github.io/authors/h.-ye/</link>
+      <link>/authors/h.-ye/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/h.-ye/</guid>
+      <guid>/authors/h.-ye/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. L. Simonis</title>
-      <link>https://bleds22e.github.io/authors/j.-l.-simonis/</link>
+      <link>/authors/j.-l.-simonis/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/j.-l.-simonis/</guid>
+      <guid>/authors/j.-l.-simonis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. M. Diaz</title>
-      <link>https://bleds22e.github.io/authors/r.-m.-diaz/</link>
+      <link>/authors/r.-m.-diaz/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/r.-m.-diaz/</guid>
+      <guid>/authors/r.-m.-diaz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. D. Taylor</title>
-      <link>https://bleds22e.github.io/authors/s.-d.-taylor/</link>
+      <link>/authors/s.-d.-taylor/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/s.-d.-taylor/</guid>
+      <guid>/authors/s.-d.-taylor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Allington</title>
-      <link>https://bleds22e.github.io/authors/g.-allington/</link>
+      <link>/authors/g.-allington/</link>
       <pubDate>Sun, 18 Nov 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/authors/g.-allington/</guid>
+      <guid>/authors/g.-allington/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. K. M. Ernest</title>
+      <link>/authors/s.-k.-m.-ernest/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/s.-k.-m.-ernest/</guid>
       <description></description>
     </item>
     

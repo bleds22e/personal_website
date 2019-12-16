@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ellen K. Bledsoe</title>
-    <link>https://bleds22e.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Ellen K. Bledsoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://bleds22e.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>B(ui)LDS</title>
-      <link>https://bleds22e.github.io/project/builds/</link>
+      <link>/project/builds/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/project/builds/</guid>
+      <guid>/project/builds/</guid>
       <description>A community for includive pedagogy and open education resources.</description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://bleds22e.github.io/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://bleds22e.github.io/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>An example of using the in-built project page.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://bleds22e.github.io/project/portalr/</link>
+      <link>/project/portalr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bleds22e.github.io/project/portalr/</guid>
+      <guid>/project/portalr/</guid>
       <description>portalR       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
