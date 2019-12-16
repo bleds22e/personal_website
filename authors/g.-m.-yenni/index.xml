@@ -6,7 +6,7 @@
     <description>Recent content in G. M. Yenni on Ellen K. Bledsoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://bleds22e.github.io/authors/g.-m.-yenni/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>portalr: an R package for summarizing and using the Portal Project Data</title>
       <link>https://bleds22e.github.io/publication/joss_2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bleds22e.github.io/publication/joss_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Portal Project: a long-term study of a Chihuahuan desert ecosystem</title>
+      <link>https://bleds22e.github.io/publication/portal_data_paper/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bleds22e.github.io/publication/portal_data_paper/</guid>
       <description></description>
     </item>
     

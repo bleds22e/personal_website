@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://bleds22e.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 -0400</pubDate>
+      <title>portalr: an R package for summarizing and using the Portal Project Data</title>
+      <link>https://bleds22e.github.io/publication/joss_2019/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/publication/preprint/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>https://bleds22e.github.io/publication/joss_2019/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>portalr: an R package for summarizing and using the Portal Project Data</title>
-      <link>https://bleds22e.github.io/publication/joss_2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
+      <title>The Portal Project: a long-term study of a Chihuahuan desert ecosystem</title>
+      <link>https://bleds22e.github.io/publication/portal_data_paper/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/publication/joss_2019/</guid>
+      <guid>https://bleds22e.github.io/publication/portal_data_paper/</guid>
       <description></description>
     </item>
     
