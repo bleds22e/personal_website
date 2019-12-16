@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Ellen K. Bledsoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>B(ui)LDS</title>
       <link>/project/builds/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>/project/builds/</guid>
       <description>A community for includive pedagogy and open education resources.</description>
+    </item>
+    
+    <item>
+      <title>portalR</title>
+      <link>/project/portalr/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/portalr/</guid>
+      <description>R package for using Portal data</description>
     </item>
     
     <item>
@@ -36,15 +45,6 @@
       
       <guid>/project/internal-project/</guid>
       <description>An example of using the in-built project page.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/project/portalr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/portalr/</guid>
-      <description>portalR       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>

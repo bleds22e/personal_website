@@ -58,6 +58,36 @@
   </url>
   
   <url>
+    <loc>/project/builds/</loc>
+    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dei-work/</loc>
+    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/long-term-dynamics/</loc>
+    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/portalr/</loc>
+    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software/</loc>
+    <lastmod>2019-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -68,18 +98,38 @@
   </url>
   
   <url>
+    <loc>/publication/workflow_2018/</loc>
+    <lastmod>2019-01-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/e.-m.-christensen/</loc>
-    <lastmod>2019-01-24T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-29T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/e.-p.-white/</loc>
-    <lastmod>2019-01-24T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-29T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/g.-m.-yenni/</loc>
-    <lastmod>2019-01-24T00:00:00-04:00</lastmod>
+    <lastmod>2019-01-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-m.-diaz/</loc>
+    <lastmod>2019-01-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-k.-m.-ernest/</loc>
+    <lastmod>2019-01-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-r.-supp/</loc>
+    <lastmod>2019-01-29T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -94,11 +144,6 @@
   
   <url>
     <loc>/publication/joss_2019/</loc>
-    <lastmod>2019-01-24T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/r.-m.-diaz/</loc>
     <lastmod>2019-01-24T00:00:00-04:00</lastmod>
   </url>
   
@@ -118,12 +163,7 @@
   </url>
   
   <url>
-    <loc>/publication/forescasting_2019/</loc>
-    <lastmod>2018-10-10T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-k.-m.-ernest/</loc>
+    <loc>/publication/forescasting_2018/</loc>
     <lastmod>2018-10-10T00:00:00-04:00</lastmod>
   </url>
   
@@ -143,17 +183,7 @@
   </url>
   
   <url>
-    <loc>/project/builds/</loc>
-    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dei-work/</loc>
     <lastmod>2016-04-27T00:00:00-04:00</lastmod>
   </url>
   
@@ -173,11 +203,6 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00-04:00</lastmod>
   </url>
@@ -185,6 +210,16 @@
   <url>
     <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-t.-blumstein/</loc>
+    <lastmod>2015-10-31T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bledsoe_blumstein_2014/</loc>
+    <lastmod>2015-10-31T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -219,11 +254,6 @@
   
   <url>
     <loc>/author/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/portalr/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

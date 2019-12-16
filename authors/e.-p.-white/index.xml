@@ -6,10 +6,19 @@
     <description>Recent content in E. P. White on Ellen K. Bledsoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/authors/e.-p.-white/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Developing an automated iterative near-term forecasting system for an ecological study</title>
+      <link>/publication/workflow_2018/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/workflow_2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>portalr: an R package for summarizing and using the Portal Project Data</title>
@@ -22,10 +31,10 @@
     
     <item>
       <title>Developing an automated iterative near-term forecasting system for an ecological study</title>
-      <link>/publication/forescasting_2019/</link>
+      <link>/publication/forescasting_2018/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/forescasting_2019/</guid>
+      <guid>/publication/forescasting_2018/</guid>
       <description></description>
     </item>
     
