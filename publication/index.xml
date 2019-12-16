@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Ellen K. Bledsoe</title>
@@ -13,11 +13,11 @@
     
     <item>
       <title>Temporal changes in species composition affect a ubiquitous species’ use of habitat patches</title>
-      <link>https://bleds22e.github.io/publication/journal-article/</link>
+      <link>https://bleds22e.github.io/publication/bledsoe_ernest_2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/publication/journal-article/</guid>
-      <description> Supplementary notes can be added here, including code and math.   </description>
+      <guid>https://bleds22e.github.io/publication/bledsoe_ernest_2019/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -30,12 +30,12 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://bleds22e.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>portalr--an R package for summarizing and using the Portal Project Data</title>
+      <link>https://bleds22e.github.io/publication/joss_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://bleds22e.github.io/publication/conference-paper/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>https://bleds22e.github.io/publication/joss_2019/</guid>
+      <description></description>
     </item>
     
   </channel>

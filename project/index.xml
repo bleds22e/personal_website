@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ellen K. Bledsoe</title>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>External Project</title>
+      <title>B(ui)LDS</title>
       <link>https://bleds22e.github.io/project/builds/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://bleds22e.github.io/project/builds/</guid>
-      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+      <description>A community for includive pedagogy and open education resources.</description>
     </item>
     
     <item>
@@ -39,12 +39,12 @@
     </item>
     
     <item>
-      <title>portalR</title>
+      <title></title>
       <link>https://bleds22e.github.io/project/portalr/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bleds22e.github.io/project/portalr/</guid>
-      <description>R package for using Portal data</description>
+      <description>portalR       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
